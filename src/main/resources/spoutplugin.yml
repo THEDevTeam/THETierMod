@@ -1,0 +1,10 @@
+name: THETierMod
+version: dev-SNAPSHOT
+description: The Industrial Mod
+author: THEDevTeam
+
+main: com.thedevteam.thetiermod.THETierMod
+protocol: Minecraft 1.2.4
+load: startup
+
+platform: BOTH
