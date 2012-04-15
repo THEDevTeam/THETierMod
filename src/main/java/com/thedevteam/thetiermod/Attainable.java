@@ -4,7 +4,7 @@ import org.spout.api.material.Material;
 
 /**
  *
- *
+ * @deprecated Currently has no uses. Unless use is found, will be deleted.
  */
 public class Attainable {
     private final Material material;
